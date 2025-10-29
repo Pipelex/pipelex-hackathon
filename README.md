@@ -16,27 +16,27 @@ We are happy to welcome you to our hackathon to celebrate our first official lau
 
 ---
 
-## Resources
+# Resources
 
-### Support
+## Support
 
 Since we are in early stage, you might encounter issues. Don't hesitate to reach out to us for debugging
 
 - **Support Channel:** [join our discord](https://go.pipelex.com/discord). We have created a channel for the hackathon.
 - Look for Thomas, Louis or Robin. We have Pipelex merch and a french accent, you can't miss us.
 
-### Documentation
+## Documentation
 
 - **Documentation:** [https://docs.pipelex.com]
 - **API Reference:** [https://docs.pipelex.com/pages/api/]
 
-### Examples
+## Examples
 
 - [Pipelex Examples](https://github.com/Pipelex/pipelex-cookbook)
 
 ---
 
-## ⚠️⚠️⚠️ IMPORTANT: Focus on ONE Feature! ⚠️⚠️⚠️
+# ⚠️⚠️⚠️ IMPORTANT: Focus on ONE Feature! ⚠️⚠️⚠️
 
 **You have only 2 hours and 30 minutes.**
 
@@ -48,11 +48,9 @@ Since we are in early stage, you might encounter issues. Don't hesitate to reach
 
 **Remember:** A single feature that works beautifully is infinitely better than five half-baked ideas. Focus, ship, and shine! 🎯
 
-## Setup
+# Setup
 
-### Getting Started
-
-### STEP 0: Install BlackBox IDE (Required for Everyone!)
+## (OPTIONAL) STEP 0: Install BlackBox IDE
 
 - Signup to [blackbox.ai](https://www.blackbox.ai/)
 - Before you start building, you need to install the **BlackBox IDE** - your AI-powered development environment.
@@ -65,7 +63,9 @@ Since we are in early stage, you might encounter issues. Don't hesitate to reach
 
 ---
 
-### OPTION 1 (Easiest - less setup): Python Frontend
+## STEP 1 1: Setup
+
+### OPTION 1 (No docker, more setup): Requires a Python frontend
 
 Build your frontend with **Streamlit** or **Gradio** or else.
 
@@ -112,7 +112,7 @@ pipelex doctor
 
 **Step 6: Import the rules**
 
-You need the blackbox rules to be imported in your workspace.
+You need the AI editor rules to be imported in your workspace.
 To do so, run the following command:
 
 ```bash
@@ -121,7 +121,11 @@ pipelex kit rules
 
 Run this command to make sure everything is configured correctly.
 
-**Step 6: Build your workflow**
+**Step 7: Get your BLACKBOX API KEY**
+
+📖 See [BLACKBOX_API_SETUP.md](BLACKBOX_API_SETUP.md) for detailed instructions on how to get your API key.
+
+**Step 8: Build your workflow**
 
 ```bash
 pipelex build pipe "Create me a workflow that..."
@@ -130,7 +134,7 @@ pipelex build pipe "Create me a workflow that..."
 Help here to execute the workflow [Pipelex documentation](https://docs.pipelex.com/pages/build-reliable-ai-workflows-with-pipelex/design_and_run_pipelines/#running-a-pipeline) to:
 
 
-**Step 7: Build your frontend**
+**Step 9: Build your frontend**
 
 Use Streamlit or Gradio to create a UI that calls your Pipelex workflows.
 
@@ -138,9 +142,11 @@ Use Streamlit or Gradio to create a UI that calls your Pipelex workflows.
 
 ---
 
-### OPTION 2 (Docker) - TypeScript Frontend
+## OPTION 2 (Docker for the Pipelex API) - TypeScript Frontend
 
 Build your frontend with **Next.js**, **Vue.js**, **React**, etc.
+
+📖 **Need help getting your Blackbox API key?** See [BLACKBOX_API_SETUP.md](BLACKBOX_API_SETUP.md)
 
 **Step 1: Run the Pipelex API to run your workflows**
 
@@ -163,14 +169,20 @@ docker run --name pipelex-api -p 8081:8081 \
 
 Here is the API documentation: [Pipelex API Documentation](https://docs.pipelex.com/pages/api/)
 
-**Step 2: Import BlackBoxAI Rule**
+**Step 2: Import AI EDITOR Rules**
 
-You need the blackbox rules to be imported in your workspace.
+You need the AI EDITOR rules to be imported in your workspace.
 To do so, run the following command:
 
-Create a file at the root of your project called `.blackboxrules` and copy paste this [text](https://github.com/Pipelex/pipelex-api/blob/main/rules/blackbox_rules.txt) into it.
+You can find the necessary rules in the main repository:
 
-## How to Submit
+- If you use Cursor, the rules are here: [Cursor Rules](https://github.com/Pipelex/pipelex/blob/main/.cursor/rules/write_pipelex.mdc): Create a file .cursor/rules/write_pipelex.mdc in the root of your project and copy paste the rules into it.
+- If you use Copilot, the rules are here: [Copilot Rules](https://github.com/Pipelex/pipelex/blob/main/.github/copilot-instructions.md): Create a file .github/copilot-instructions.md in the root of your project and copy paste the rules into it.
+- If you use CLAUDE CODE , the rules are here: [CLAUDE CODE Rules](https://github.com/Pipelex/pipelex/blob/main/CLAUDE.md): Create a file CLAUDE.md in the root of your project and copy paste the rules into it.
+- If you use Windsurf, the rules are here: [Windsurf Rules](https://github.com/Pipelex/pipelex/blob/main/.windsurfrules.md): Create a file .windsurfrules.md in the root of your project and copy paste the rules into it.
+- You can find the AGENT.md rules here: [AGENT.md Rules](https://github.com/Pipelex/pipelex/blob/main/AGENT.md): Create a file AGENT.md in the root of your project and copy paste the rules into it.
+
+# How to Submit
 
 **https://go.pipelex.com/hackathon-submissions**
 
