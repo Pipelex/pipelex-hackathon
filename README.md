@@ -10,7 +10,6 @@ We are happy to welcome you to our hackathon to celebrate our first official lau
 - You can also bump a like 🤝 on devhunt [--> RIGHT HERE <--](https://devhunt.org/)
 
 **Organized in partnership with:**
-- [BlackboxAI](https://www.blackboxai.com/) - BlackboxAI is the world’s most advanced AI coding ecosystem, with an IDE.
 - [Codiris](https://www.codiris.build/) - AI-native Product Development Environment
 - [The AI Collective](https://www.aicollective.com/) - A non-profit, grassroots community uniting 100,000+ pioneers – founders, researchers, operators, and investors – exploring the frontier of AI in major tech hubs worldwide
 
@@ -47,17 +46,6 @@ Since we are in early stage, you might encounter issues. Don't hesitate to reach
 ## Setup
 
 ### Getting Started
-
-### STEP 0: Install BlackBox IDE (Required for Everyone!)
-
-- Signup to [blackbox.ai](https://www.blackbox.ai/)
-- Before you start building, you need to install the **BlackBox IDE** - your AI-powered development environment.
-
-[Download the BlackBox IDE](https://docs.blackbox.ai/features/desktop-agent/getting-started#1-download)
-
----
-
-![BlackBox Download](blackboxdownload.png)
 
 ---
 
