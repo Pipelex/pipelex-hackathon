@@ -154,7 +154,7 @@ Create a file at the root of your project called `.blackboxrules` and copy paste
 
 ## How to Submit
 
-**[Link to submission form]**
+**https://go.pipelex.com/hackathon-submissions**
 
 You will need to provide by 9pm:
 
