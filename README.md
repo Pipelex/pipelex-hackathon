@@ -30,6 +30,10 @@ Since we are in early stage, you might encounter issues. Don't hesitate to reach
 - **Documentation:** [https://docs.pipelex.com]
 - **API Reference:** [https://docs.pipelex.com/pages/api/]
 
+### Examples
+
+- [Pipelex Examples](https://github.com/Pipelex/pipelex-cookbook)
+
 ---
 
 ## ⚠️⚠️⚠️ IMPORTANT: Focus on ONE Feature! ⚠️⚠️⚠️
