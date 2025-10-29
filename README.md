@@ -50,9 +50,8 @@ Since we are in early stage, you might encounter issues. Don't hesitate to reach
 
 ### STEP 0: Install BlackBox IDE (Required for Everyone!)
 
-Signup to blackbox.ai
-
-Before you start building, you need to install the **BlackBox IDE** - your AI-powered development environment.
+- Signup to [blackbox.ai](https://www.blackbox.ai/)
+- Before you start building, you need to install the **BlackBox IDE** - your AI-powered development environment.
 
 [Download the BlackBox IDE](https://docs.blackbox.ai/features/desktop-agent/getting-started#1-download)
 
