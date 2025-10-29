@@ -94,6 +94,9 @@ pipelex doctor
 
 **Step 6: Import the rules**
 
+You need the blackbox rules to be imported in your workspace.
+To do so, run the following command:
+
 ```bash
 pipelex kit rules
 ```
@@ -121,6 +124,8 @@ Use Streamlit or Gradio to create a UI that calls your Pipelex workflows.
 
 Build your frontend with **Next.js**, **Vue.js**, **React**, etc.
 
+**Step 1: Run the Pipelex API to run your workflows**
+
 **Requirements:** Docker installed ([Install Docker](https://docs.docker.com/desktop/setup/install/mac-install/))
 
 **Run the Pipelex API:**
@@ -139,6 +144,13 @@ docker run --name pipelex-api -p 8081:8081 \
 ✅ The API will be available at `http://localhost:8081`
 
 Here is the API documentation: [Pipelex API Documentation](https://docs.pipelex.com/pages/api/)
+
+**Step 2: Import BlackBoxAI Rule**
+
+You need the blackbox rules to be imported in your workspace.
+To do so, run the following command:
+
+Create a file at the root of your project called `.blackboxrules` and copy paste this [text](https://github.com/Pipelex/pipelex-api/blob/main/rules/blackbox_rules.txt) into it.
 
 ## How to Submit
 
