@@ -1,9 +1,9 @@
 # Hackathon - Do the impossible with AI
 
-We are happy to welcome you to our hackathon to celebrate our first official launch!
+We are happy to welcome you to our hackathon to celebrate our first official launch!! 🎉
 
-Don't hesitate to give us some feedback, and a star 🌟 on github! [--> RIGHT HERE <--](https://github.com/Pipelex/pipelex)
-You can also bump a like 🤝 on devhunt [--> RIGHT HERE <--](https://devhunt.org/)
+- Don't hesitate to give us some feedback, and a star 🌟 on github! [--> RIGHT HERE <--](https://github.com/Pipelex/pipelex)
+- You can also bump a like 🤝 on devhunt [--> RIGHT HERE <--](https://devhunt.org/)
 
 ## Resources
 
