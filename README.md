@@ -1,9 +1,20 @@
+<div align="center">
+  <img src="hackathon.png" alt="Hackathon Banner" width="500">
+</div>
+
 # Hackathon - Do the impossible with AI
 
 We are happy to welcome you to our hackathon to celebrate our first official launch!! 🎉
 
 - Don't hesitate to give us some feedback, and a star 🌟 on github! [--> RIGHT HERE <--](https://github.com/Pipelex/pipelex)
 - You can also bump a like 🤝 on devhunt [--> RIGHT HERE <--](https://devhunt.org/)
+
+**Organized in partnership with:**
+- [Codiris](https://www.codiris.build/) - AI-native Product Development Environment
+- [Humiris](https://www.humiris.ai/) - The easiest way to improve your LLMs accuracy
+- [The AI Collective](https://www.aicollective.com/) - A non-profit, grassroots community uniting 100,000+ pioneers – founders, researchers, operators, and investors – exploring the frontier of AI in major tech hubs worldwide
+
+---
 
 ## Resources
 
