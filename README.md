@@ -21,7 +21,7 @@ Since we are in early stage, you might encounter issues. Don't hesitate to reach
 
 ---
 
-## ⚠️ IMPORTANT: Focus on ONE Feature!
+## ⚠️⚠️⚠️ IMPORTANT: Focus on ONE Feature! ⚠️⚠️⚠️
 
 **You have only 2 hours and 30 minutes.**
 
@@ -39,17 +39,20 @@ Since we are in early stage, you might encounter issues. Don't hesitate to reach
 
 ### OPTION 1 (Easiest - less setup): Python Frontend
 
-Build your frontend with **Streamlit** or **Gradio**.
+Build your frontend with **Streamlit** or **Gradio** or else.
 
 **Step 1: Install Pipelex**
 
 ```bash
+python3 -m venv .venv
+source .venv/bin/activate
 pip install pipelex
 ```
 
 **Step 2: Configure your environment variables**
 
-Create a `.env` file in your project directory:
+Create a `.env` file in your project directory and add your BlackboxAI API key:
+If you don't have one, come to us.
 ```
 BLACKBOX_API_KEY=your_blackbox_api_key
 ```
