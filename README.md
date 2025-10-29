@@ -92,6 +92,12 @@ active = "all_blackboxai"
 pipelex doctor
 ```
 
+**Step 6: Import the rules**
+
+```bash
+pipelex kit rules
+```
+
 Run this command to make sure everything is configured correctly.
 
 **Step 6: Build your workflow**
