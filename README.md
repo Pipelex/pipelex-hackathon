@@ -119,9 +119,13 @@ Build your frontend with **Next.js**, **Vue.js**, **React**, etc.
 
 **Run the Pipelex API:**
 
+`API_KEY=pipelex` DON'T CHANGE THIS. It will be the token used for the API on your frontend. Since your API will run locally, its safe to use a static key.
+
+`BLACKBOX_API_KEY=your-blackbox-api-key-here` Your BlackboxAI API key. If you don't have one, come to us.
+
 ```bash
 docker run --name pipelex-api -p 8081:8081 \
-  -e API_KEY=pipelex-hackathon-2025 \
+  -e API_KEY=pipelex \
   -e BLACKBOX_API_KEY=your-blackbox-api-key-here \
   pipelex/pipelex-api:latest
 ```
