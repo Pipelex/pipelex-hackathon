@@ -87,7 +87,8 @@ BLACKBOX_API_KEY=your_blackbox_api_key
 pipelex init
 ```
 
-When it comes to choosing the backend, choose "BlackboxAI" (number 11).
+- Please activate the telemetry by choosing Anonymous or identified! This is really helful for us.
+- When it comes to choosing the backend, choose "BlackboxAI" (number 11).
 
 ![Backend Selection](backend.png)
 
