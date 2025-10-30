@@ -32,7 +32,8 @@ Since we are in early stage, you might encounter issues. Don't hesitate to reach
 
 ## Examples
 
-- [Pipelex Examples](https://github.com/Pipelex/pipelex-cookbook)
+- [📋 Project Ideas & Examples](EXAMPLES.md) - 20 education-focused project ideas you can build
+- [Pipelex COOKBOOK](https://github.com/Pipelex/pipelex-cookbook) 
 
 ---
 
