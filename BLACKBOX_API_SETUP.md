@@ -46,4 +46,5 @@ Activate $50 subscription Credits and $50 API Credits
 5. Complete and API credits activated
 
 For more on the API : https://docs.blackbox.ai/api-reference/introduction
+BlackBoxAI features
 For more on getting started: https://docs.blackbox.ai/
