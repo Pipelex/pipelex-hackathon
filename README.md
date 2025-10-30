@@ -4,6 +4,11 @@
 
 # Hackathon - Do the impossible with AI
 
+🛜 Wifi
+
+- AIUG-Guest
+- aiusergroup
+
 We are happy to welcome you to our hackathon to celebrate our first official launch!! 🎉
 
 - Don't hesitate to give us some feedback, and a star 🌟 on github! [--> RIGHT HERE <--](https://github.com/Pipelex/pipelex)
