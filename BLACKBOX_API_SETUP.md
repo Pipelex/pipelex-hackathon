@@ -10,7 +10,7 @@ Activate $50 subscription Credits and $50 API Credits
 2. go to https://www.blackbox.ai/pricing
 3. select the TEAMS plan
 4. in the stripe checkout:
-    1. enter the promocode `HACKSF100`
+    1. enter the promocode `SFHACK100`
     2. use the corporate credit  (or a personal credit card as you prefer), YOU WON'T BE CHARGED FOR THIS!
     
     ```markdown
@@ -33,7 +33,7 @@ For more on getting started: https://docs.blackbox.ai/
 1. go to https://www.blackbox.ai/dashboard
 2. click 'Create Key'
 3. click 'Add Credits'
-4. enter the promocode `HACKSF100`
+4. enter the promocode `SFHACK100`
 5. Complete and API credits activated
 
 For more on the API : https://docs.blackbox.ai/api-reference/introduction
