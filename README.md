@@ -23,6 +23,8 @@ We are happy to welcome you to our hackathon to celebrate our first official lau
 
 # Resources
 
+📖 **Need help getting your Blackbox API key?** See [BLACKBOX_API_SETUP.md](BLACKBOX_API_SETUP.md)
+
 ## Support
 
 Since we are in early stage, you might encounter issues. Don't hesitate to reach out to us for debugging
