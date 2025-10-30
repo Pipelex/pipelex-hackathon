@@ -192,7 +192,7 @@ You can find the necessary rules in the main repository:
 
 # How to Submit
 
-**https://go.pipelex.com/hackathon-submissions**
+**https://www.pipelex.com/vibe-ai-workflows-hackathon---submissions**
 
 You will need to provide by 9pm:
 
